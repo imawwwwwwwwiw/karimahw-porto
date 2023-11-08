@@ -8,32 +8,24 @@ html {
 
 nav {
   position: fixed;
-  background-color: cadetblue;
   width: 100%;
-<<<<<<< HEAD
-  height: 8%;
+  background-color: transparent;
 }
 
 .navbar {
   text-decoration: none;
-  text-align: end;
-=======
+  text-align: start;
   background-color: transparent;
->>>>>>> editlagi
 }
 
 .navbar a {
   text-decoration: none;
-<<<<<<< HEAD
-  font-size: 30px;
-  color: aliceblue;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   padding-right: 80px;
-=======
   color: darksalmon;
+  background-color: transparent;
   font-size: 30px;
   padding-left: 30px;
->>>>>>> editlagi
 }
 
 h1 {
@@ -41,10 +33,7 @@ h1 {
   align-content: center;
   margin: auto;
   text-align: center;
-<<<<<<< HEAD
-=======
   padding-top: 15px;
->>>>>>> editlagi
   font-family: Georgia, "Times New Roman", Times, serif;
   color: whitesmoke;
 }
@@ -60,10 +49,7 @@ h1 {
 img {
   margin-top: 100px;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> editlagi
 p {
   text-align: center;
   font-size: 20px;
@@ -72,18 +58,11 @@ p {
 
 .table {
   border: 5px solid white;
-<<<<<<< HEAD
-  border-radius: 50px;
-  width: 40%;
-  height: fit-content;
-  margin-left: 30%;
-=======
   width: 50%;
   margin-left: 40%;
-  margin-top: 50px;
+  margin-top: 100px;
   padding: 15px;
   border-radius: 20px;
->>>>>>> editlagi
 }
 
 .contact {
@@ -91,22 +70,12 @@ p {
   width: 50%;
   margin-left: 45%;
 }
-<<<<<<< HEAD
-
-.contact p {
-  border-radius: 20px;
-  width: 10px;
-  padding-top: 10px;
-}
-
-=======
 .contact p {
   border-radius: 20px;
   width: 10px;
   color: tomato;
   padding-left: 10px;
 }
->>>>>>> editlagi
 .wa {
   width: 10%;
   height: 20%;
